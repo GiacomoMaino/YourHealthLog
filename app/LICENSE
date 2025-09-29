@@ -1,0 +1,39 @@
+YourHealthLog License v1.0
+
+Copyright (c) 2025 Maino Giacomo
+
+Permission is hereby granted, free of charge, to anyone to use, copy, modify, and redistribute this software and its source files strictly for non-commercial purposes, provided that this copyright notice and this license are included in all copies or substantial portions of the software.
+
+Terms:
+
+1. Non-Commercial Use
+   - You may use, modify, and redistribute the software and its derivative works only for personal, educational, research, or other non-profit purposes.
+   - Any direct or indirect commercial use is strictly prohibited, including but not limited to:
+     - Sale of the software or any derivative works
+     - Use of the software in a SaaS or other paid service
+     - Distribution of paid extensions, plugins, or additional services
+     - Use of the software on ad-supported platforms that generate revenue
+
+2. Monetization Reserved to the Author
+   - Any form of monetization of the software, as described above, is reserved exclusively for the original author (Maino Giacomo).
+   - The author may authorize monetization under any model for specific users or parties, under mutually agreed terms.
+
+3. Redistribution
+   - Redistribution of the software or derivative works is allowed provided that:
+     - No fee, price, or mandatory donation is charged
+     - Voluntary donations or contributions are permitted
+     - The software is always distributed under this same license (see “License Versioning” below)
+     - All copyright notices and this license are preserved in redistributed copies
+
+4. No Warranty (“As Is”)
+   - The software is provided “as is,” without any express or implied warranty, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
+   - In no event shall the author be liable for any direct, indirect, incidental, or consequential damages arising from the use of the software, including damage to systems, data, or any other property.
+
+5. License Duration and Versioning
+   - This license is perpetual and irrevocable for all versions of the software that include this license.
+   - If the license text is updated in future releases, all versions released after the update are governed by the new license version.
+   - Previous releases remain governed by the license version they shipped with.
+
+6. Disclaimer on Open Source Claims
+   - This software is not an OSI-approved open source project.
+   - It is a source-available, non-commercial license. Users must not represent it as open source in official or legal contexts.
