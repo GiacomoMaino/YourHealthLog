@@ -4,7 +4,6 @@ import android.content.Context
 import androidx.navigation3.runtime.NavKey
 import com.example.yourhealthlog.R
 import kotlinx.serialization.Serializable
-import java.io.Serial
 
 @Serializable
 data object HomeKey: NavKey

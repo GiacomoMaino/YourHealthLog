@@ -58,7 +58,7 @@ class MainActivity : ComponentActivity() {
                                 onBack = { backstack.removeLastOrNull() },
                                 entryProvider = { key ->
                                     when (key) {
-                                        is HomeKey -> NavEntry(key) { HomeScreen(backstack) }
+                                        is HomeKey -> NavEntry(key) { HomeScreen() }
                                         is NutritionKey -> NavEntry(key) { NutritionScreen(backstack) }
                                         else -> NavEntry(UnknownKey) { Text(text = "unknown") }
                                     }
