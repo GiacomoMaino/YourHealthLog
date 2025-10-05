@@ -1,7 +1,5 @@
-package com.example.yourhealthlog
+package com.example.yourhealthlog.sections
 
-import androidx.activity.ComponentActivity
-import androidx.biometric.BiometricManager
 import androidx.biometric.BiometricPrompt
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -16,6 +14,7 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import androidx.core.content.ContextCompat
 import androidx.fragment.app.FragmentActivity
+import com.example.yourhealthlog.R
 
 @Composable
 fun BiometricLoginScreen(onSuccess: () -> Unit) {

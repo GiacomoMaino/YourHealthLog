@@ -56,6 +56,7 @@ dependencies {
     implementation(libs.androidx.material3.adaptive.navigation3)
     implementation(libs.androidx.compose.material.icons)
     implementation(libs.kotlinx.serialization.core)
+    implementation(libs.androidx.biometric.ktx)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)

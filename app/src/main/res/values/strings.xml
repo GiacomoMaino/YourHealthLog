@@ -3,4 +3,8 @@
     <string name="nutrition_title">Nutrition</string>
     <string name="home_title">Home</string>
     <string name="body_title">Body</string>
+    <string name="biometric_login_title">Biometric Login</string>
+    <string name="biometric_login_subtitle">Placeholder</string>
+    <string name="biometric_login_back">Placeholder</string>
+    <string name="biometric_login_button">Placeholder</string>
 </resources>

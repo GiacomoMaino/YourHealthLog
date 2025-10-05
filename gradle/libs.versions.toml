@@ -15,6 +15,7 @@ material3AdaptiveNav3 = "1.0.0-alpha03"
 lifecycleViewmodelNav3 = "2.10.0-alpha04"
 material3 = "1.5.0-alpha04"
 symbols = "1.7.8"
+biometricKtx = "1.4.0-alpha02"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -37,6 +38,7 @@ androidx-lifecycle-viewmodel-navigation3 = { module = "androidx.lifecycle:lifecy
 androidx-material3-adaptive-navigation3 = { group = "androidx.compose.material3.adaptive", name = "adaptive-navigation3", version.ref = "material3AdaptiveNav3" }
 androidx-compose-material-icons = { group = "androidx.compose.material", name="material-icons-extended", version.ref="symbols"}
 kotlinx-serialization-core = { module = "org.jetbrains.kotlinx:kotlinx-serialization-core", version.ref = "kotlinxSerializationCore" }
+androidx-biometric-ktx = { group = "androidx.biometric", name = "biometric-ktx", version.ref = "biometricKtx" }
 
 
 [plugins]
