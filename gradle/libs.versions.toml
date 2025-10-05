@@ -14,6 +14,7 @@ kotlinxSerializationCore = "1.8.1"
 material3AdaptiveNav3 = "1.0.0-alpha03"
 lifecycleViewmodelNav3 = "2.10.0-alpha04"
 material3 = "1.5.0-alpha04"
+symbols = "1.7.8"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -34,7 +35,7 @@ androidx-navigation3-runtime = {group = "androidx.navigation3", name = "navigati
 androidx-navigation3-ui = {group = "androidx.navigation3", name = "navigation3-ui", module="androidx.navigation3:navigation3-ui", version.ref = "navigation3"}
 androidx-lifecycle-viewmodel-navigation3 = { module = "androidx.lifecycle:lifecycle-viewmodel-navigation3", version.ref = "lifecycleViewmodelNav3" }
 androidx-material3-adaptive-navigation3 = { group = "androidx.compose.material3.adaptive", name = "adaptive-navigation3", version.ref = "material3AdaptiveNav3" }
-
+androidx-compose-material-icons = { group = "androidx.compose.material", name="material-icons-extended", version.ref="symbols"}
 kotlinx-serialization-core = { module = "org.jetbrains.kotlinx:kotlinx-serialization-core", version.ref = "kotlinxSerializationCore" }
 
 
